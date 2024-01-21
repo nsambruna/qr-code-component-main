@@ -1,0 +1,19 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsambruna/QR-code-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsambruna/QR-code-component/issues"
+  },
+  "homepage": "https://github.com/nsambruna/QR-code-component#readme"
+}
